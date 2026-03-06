@@ -1,5 +1,3 @@
-# CLAIRE Training Dataset
-
 ## Overview
 
 This dataset is a hybrid collection of **6,660 samples** (human-generated + synthetic data) specifically curated to train **CLAIRE** (Conversational Language AI for Resolution & Engagement).
