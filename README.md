@@ -1,6 +1,6 @@
-## Overview
+# Overview
 
-This dataset is a hybrid collection of **6,660 samples** (human-generated + synthetic data) specifically curated to train **CLAIRE** (Conversational Language AI for Resolution & Engagement).
+This dataset is a hybrid collection of **6,660 samples** (human-generated + synthetic data) specifically curated to fine-tune **CLAIRE** (Conversational Language AI for Resolution & Engagement).
 
 CLAIRE is an intelligent banking assistant designed for secure, inclusive, and real-time customer support in the Philippine financial sector. This dataset and the development of CLAIRE are part of the **BPI Datawave 2025**.
 
